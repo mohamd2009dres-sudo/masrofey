@@ -52,6 +52,6 @@ python - If / Else - while Loop - Try / Except - variables & Input
 
 ![screenshots 1](screenshots/mm.png)
 
-(m1m.png screenshots/) [Screenshots 2] !
+![screenshots 2](screenshots/m1m.png)
 
-(m0m.png screenshots/) [Screenshots 3] !
+![screenshots 3](screenshots/m0m.png)
