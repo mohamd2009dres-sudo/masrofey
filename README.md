@@ -54,4 +54,4 @@ python - If / Else - while Loop - Try / Except - variables & Input
 
 ![screenshots 2](screenshots/m1m.png)
 
-![screenshots 3](screenshots/m0m.png)
+[![screenshots 3](m0m.png.PNG)
