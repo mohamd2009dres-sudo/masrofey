@@ -50,7 +50,7 @@ python - If / Else - while Loop - Try / Except - variables & Input
 
 ##  project Screenshots 
 
-![[screenshots 1](screenshots_1.png)](screenshots_1.png)
+![[screenshots 1](screenshots/mm.png)](screenshots/mm.png)
 
 ![screenshots 2](screenshots/m1m.png)
 
